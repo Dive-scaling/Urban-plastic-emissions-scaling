@@ -1,0 +1,6 @@
+# load data
+data <- data.frame(
+  category = c("PRE", "PFE", "PDE", "PBE", "PCE", "PUE"),
+  value = c(0.82, 0.83, 0.83, NA, 0.88, NA),  # replace null 为 NA
+  baseline = c(0.8, 0.8, 0.8, NA, 0.82, NA)  # replace null 为 NA
+)

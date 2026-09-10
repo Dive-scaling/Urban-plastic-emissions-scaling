@@ -1,0 +1,6 @@
+# Load data
+data <- data.frame(
+  category = c("PRE", "PFE", "PDE", "PBE", "PCE", "PUE"),
+  value = c(0.98, 1, 0.95, 1, 1.01, 0.96),
+  baseline = c(0.96, 0.98, 0.85, 1.04, 1.13, 0.81)
+)
