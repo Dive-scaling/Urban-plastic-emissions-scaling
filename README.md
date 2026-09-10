@@ -2,7 +2,7 @@
 This repository contains the complete set of R** scripts and analytical pipelines used for statistical modeling, quantile regressions, stability testing, and figure generation in our study on urban plastic emission scaling.  
 # Urban Plastic Emission Scaling: Statistical Analysis & Visualization Pipeline
 
-This repository contains the complete set of **R（3.1.446）** scripts and analytical pipelines used for statistical modeling, quantile regressions, stability testing, and figure generation in our study on urban plastic emission scaling. 
+This repository contains the complete set of **R（4.3.0）** scripts and analytical pipelines used for statistical modeling, quantile regressions, stability testing, and figure generation in our study on urban plastic emission scaling. 
 
 All scripts are tested, fully executable, and designed to reproduce the exact statistical outputs presented in **Supplementary Tables S1–S13** and the corresponding manuscript figures.
 
