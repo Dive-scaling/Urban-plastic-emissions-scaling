@@ -9,7 +9,7 @@ All scripts are tested, fully executable, and designed to reproduce the exact st
 ---
 
 
-All analyses were developed and tested under **R (v3.1.446 or higher)**. 
+All analyses were developed and tested under **R (v4.3.0 or higher)**. 
 
 To run the scripts, ensure you have the required R packages installed:
 
